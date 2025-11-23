@@ -1,2 +1,2 @@
-# football--app-policy
+# football-app-policy
 policy
